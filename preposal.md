@@ -55,3 +55,32 @@ Powerups for the player
 
 ## In a paragraph or more, outline your next steps. What new skills will you need to acquire? What topics will you need to research? If working with one of two classmates, who will do what?
 Some new skills we will need to acquire could be learning the LUA language, which the Mario track is programmed in. Or, we might have to brush up on our Python skills if we choose to program the game in PYTHON. Topics we will need to research are how to add sound effects and background music to our code, as well as playing around with different game engines like LOVE2D or possibly Unity. Another important thing we will need to research is game progression to be able to implement progression between levels, saving high scores, and showing completion screens.
+# Status Report
+
+#### Your name
+
+Rameen Abid 
+
+#### Your section leader's name
+
+Xinwen Zhang
+
+#### Project title
+
+Super Bootleg Bros.
+
+***
+
+Short answers for the below questions suffice. If you want to alter your plan for your project (and obtain approval for the same), be sure to email your section leader directly!
+
+#### What have you done for your project so far?
+
+We have added graphics, music, different levels, powerups, and graphhics for the background.
+
+#### What have you not done for your project yet?
+
+We still need to figure out the intro music. We also want to add another level. 
+
+#### What problems, if any, have you encountered?
+
+The intro music did not seem to be working. There was also trouble with misplaced files which posed a problem for hte actual gameplay.
